@@ -39,4 +39,10 @@
         android:text="계산결과: "
         android:layout_margin="10dp"/>
 
+    <TextView
+        android:id="@+id/thankyou"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="앱을 사용해주셔서 감사합니다" />
+
 </LinearLayout>
